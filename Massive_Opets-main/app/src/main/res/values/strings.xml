@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Opets</string>
+
+    <integer-array name="Dis_foto">
+        <item>@drawable/penitipan1</item>
+        <item>@drawable/penitipan2</item>
+        <item>@drawable/penitipan3</item>
+        <item>@drawable/penitipan4</item>
+        <item>@drawable/penitipan5</item>
+        <item>@drawable/kucing1</item>
+        <item>@drawable/kucing2</item>
+        <item>@drawable/kucing3</item>
+        <item>@drawable/kucing4</item>
+        <item>@drawable/kucing5</item>
+    </integer-array>
+
+    <string-array name="dataD_name">
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+        <item>diskon1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

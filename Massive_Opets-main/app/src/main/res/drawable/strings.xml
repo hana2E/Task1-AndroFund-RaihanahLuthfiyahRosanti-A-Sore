@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OPETS</string>
+    
+    <integer-array name="Dis_foto">
+        <item>@drawable/penitipan1</item>
+        <item>@drawable/penitipan2</item>
+        <item>@drawable/penitipan3</item>
+        <item>@drawable/penitipan4</item>
+        <item>@drawable/penitipan5</item>
+        <item>@drawable/kucing1</item>
+        <item>@drawable/kucing2</item>
+        <item>@drawable/kucing3</item>
+        <item>@drawable/kucing4</item>
+        <item>@drawable/kucing5</item>
+    </integer-array>
+
+    <string-array name="dataD_name">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+</resources>
